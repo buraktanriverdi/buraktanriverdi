@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning React and Next js
 - 📫 btanriverdi.bt@gmail.com 
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64c0d448fcdcf9c5d50d6239?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c0d448fcdcf9c5d50d6239?variant=dark)](https://roadmap.sh)
 
